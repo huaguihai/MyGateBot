@@ -1,4 +1,4 @@
-# MyGate Network 机器人
+# MyGateBot
 ![banner](image.png)
 
 ## 功能特性
@@ -15,7 +15,7 @@
 
 - 已安装 Node.js
 - `tokens.txt` 文件包含 my-gate 平台的 token，获取方法如下：
-- 打开 my-gate 平台 [https://mygate.network/](https://app.mygate.network/login?code=LfBWAQ)
+- 打开 my-gate 平台 [https://mygate.network/](https://app.mygate.network/login?code=RECKmF)
 - 使用 Gmail 登录
 - 按 F12 打开开发者工具，选择 Network 标签
 - 复制 token 并保存到 `tokens.txt` 文件中
@@ -26,8 +26,8 @@
 
 1. 克隆仓库：
     ```sh
-    git clone https://github.com/Zlkcyber/mygateBot.git
-    cd mygateBot
+    git clone https://github.com/huaguihai/MyGateBot.git
+    cd MyGateBot
     ```
 
 2. 安装依赖：
