@@ -256,5 +256,5 @@ async function main() {
         log.error("Error in WebSocket connections:", error.message);
     }
 }
-//run
+// 运行主程序
 main();
